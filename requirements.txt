@@ -1,0 +1,7 @@
+torch
+torchaudio
+onnx
+onnxruntime
+scikit-learn
+matplotlib
+numpy
